@@ -15,3 +15,5 @@
 <br>
   <img src="https://github.com/deaspo/diana_project/blob/master/diana_design_compressed.jpg" />
 </br>
+<p>Below is a screenhot of the <b>HTML</b> for the homepage</p>
+<h2>Guideline <b>HTML</b> for the homepage </h2>

@@ -20,3 +20,4 @@
 <br>
   <img src="https://github.com/deaspo/diana_project/blob/master/diana.jpg" width=100% />
 </br>
+<p><b>To continue updating!</b></p>

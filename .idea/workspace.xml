@@ -2,281 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f93143f-071f-4ed4-9e68-aedda490b325" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_Import.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/automium_web.debug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/20/leso_flared_skirt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/14_896Y5P6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/18_TfcUfn7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/1_wNV9bZQ.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/DSC_6864_DxO.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/DSC_7206_DxO_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/DSC_7206_DxO_2_h6NQKYN.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/ankara_fontain_skirt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/dar2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/dar2_fkVqnlF.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/default_mat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/22/white_green_dress.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/23/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/23/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/23/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/23/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/23/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/23/DSC_6587_DxO.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/23/DSC_6736_DxO.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/23/dar2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/15_D07XJWb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/17_9eMNTWf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/3_TaomZsm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/8_1iXsmVc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/IMG-20161022-WA0003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/IMG-20161022-WA0005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/IMG-20161022-WA0006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/IMG-20161022-WA0008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/IMG-20161022-WA0010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/IMG-20161022-WA0013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/IMG-20161022-WA0015.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/IMG-20161022-WA0016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/IMG-20161022-WA0017.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/IMG-20161022-WA0020.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/IMG-20161022-WA0021.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/25/white_green_dress.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/img/arrow_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/img/bgnoise_lg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/img/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/img/nav_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/dl.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/reg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-00.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-00_ (2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-00_.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/tm-sigma-08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/images/win.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/Shopping-Cart.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/d_log.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/diana_logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/search_index/MAIN.tmp/742eau9wxs03q4flq3qeqh4zss7j.ctmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/search_index/MAIN.tmp/egynpdyd5neoz6f5vl9b4iemd8b7.ctmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/search_index/MAIN.tmp/ms3elbow32qukmc2ozdqejbio6p9.ctmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/search_index/MAIN_WRITELOCK" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/search_index/MAIN_eh0p60autay1jpnp.pst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/search_index/MAIN_eh0p60autay1jpnp.trm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/search_index/MAIN_txcnc7xy5zeu3e8n.pst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/search_index/MAIN_txcnc7xy5zeu3e8n.trm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/search_index/MAIN_u7gy3b0houl9ntzw.pst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/search_index/MAIN_u7gy3b0houl9ntzw.trm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/search_index/_MAIN_0.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/whoosh_index/MAIN.tmp/7flk0jo7enxoag0vsldkc1v9nd82.ctmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/whoosh_index/MAIN.tmp/i8vxjslkfieg923ktdas4i7xjkl0.ctmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/whoosh_index/MAIN.tmp/ik9b8kvrm5n62nvay2rpptzo2c2k.ctmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/whoosh_index/MAIN_54evzycyssndzaij.pst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/whoosh_index/MAIN_54evzycyssndzaij.trm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/whoosh_index/MAIN_WRITELOCK" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/whoosh_index/MAIN_br05z21rjc56ldzw.pst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/whoosh_index/MAIN_br05z21rjc56ldzw.trm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/whoosh_index/MAIN_u4taksgzelt38vyk.pst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/whoosh_index/MAIN_u4taksgzelt38vyk.trm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/whoosh_index/_MAIN_0.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/whoosh/MAIN.tmp/6urh3er6zcpx5xp87cgwdgqrghv6.ctmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/whoosh/MAIN.tmp/mutsqfj6b88osm7sqplv73tzi3j7.ctmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/whoosh/MAIN.tmp/us5x99xn247o3qse1iu47du4o75o.ctmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/whoosh/MAIN_WRITELOCK" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/whoosh/MAIN_rchokw37bp6n7az2.pst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/whoosh/MAIN_rchokw37bp6n7az2.trm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/whoosh/MAIN_x3mrcf1gbusb1vuo.pst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/whoosh/MAIN_x3mrcf1gbusb1vuo.trm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/whoosh/MAIN_yp3gdb6wqiho4dzk.pst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/whoosh/MAIN_yp3gdb6wqiho4dzk.trm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/whoosh/_MAIN_0.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feedbacks.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/polycarp_suggestions.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sacco_quotation.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/a08811d6-7f91-46a1-8316-d38c9ff3db46.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/migrations/0030_auto_20161007_1931.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/migrations/0031_auto_20161007_2217.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/migrations/0032_auto_20161018_1552.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/migrations/0033_auto_20161019_1637.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/migrations/0034_auto_20161020_1007.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/migrations/0035_auto_20161104_1558.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/migrations/0036_auto_20161104_1811.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/migrations/0037_auto_20161104_1857.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/search_indexes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/order/modal-form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/search.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/slideshow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/css/ekko-lightbox-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/css/ekko-lightbox.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/css/search.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/font-awesome/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/js/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/js/clicks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/js/ekko-lightbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/home_page/js/jquery.singlePageNav.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/js/mat/utility_functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/js/mat/zoom/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/js/mat/zoom/jquery.zoom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/js/mat/zoom/lightzoom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/my_comments/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/my_comments/_comments.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/my_comments/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/my_comments/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/my_comments/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/my_comments/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/my_comments/migrations/0002_auto_20161104_1857.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/my_comments/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/my_comments/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/my_comments/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/my_comments/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/_404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/_500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/_about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/_cookies.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/_feedback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/_options.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/_privacy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/_service_agreement.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/_update_quantity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/base_homepage_index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/comments/comment_notification_email.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/cookies.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/feedback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/home/registration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/materials/_gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/materials/_galleryFill.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/materials/_index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/materials/_order.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/materials/_reserve.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/materials/_show.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/materials/testPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/privacy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/search/indexes/diana_busn/diana_busn_text.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/search/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diana_proj/templates/service_agreement.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orig_models.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/22/default_mat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/22/default_mat_05xPbp4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/22/default_mat_4GS9aYT.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/22/default_mat_4YDVMYy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/22/default_mat_4YDVMYy_gMjcmnf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/22/default_mat_7MKk0FB.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/22/images_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/22/images_1_FSnBF5C.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/ankara_fontain_skirt.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/brown_jacket_suit.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/default_mat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/gold_prints_ankara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/green_black_pencil_skirt.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/leso_flared_skirt.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/marron_yellow_printed_dress.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/multi_colored_gathered_skirt.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/purple_brown_pleated.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/red_african_printed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/red_aniamal_summer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/teal_cream_skater_dress.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/25/white_green_dress.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/26/default_mat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/26/white_green_dress.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/27/default_mat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/27/default_mat_4GS9aYT.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/27/default_mat_4YDVMYy_gMjcmnf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/27/default_mat_4YDVMYy_gMjcmnf_mywx86P.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/27/default_mat_cq5j0iX.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/09/27/white_green_dress.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/03/default_mat_4GS9aYT.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/03/default_mat_cq5j0iX.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/03/default_mat_cq5j0iX_FcRuZKc.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/03/default_mat_cq5j0iX_Y7xwuo7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/03/default_mat_cq5j0iX_aODh0M8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/media/diana_busn/materials/2016/10/03/default_mat_cq5j0iX_c2W82W2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/default_mat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/header_images.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/images_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/images_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/pic3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/pic4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/pic5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/img/pic6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/js/jquery-1.3.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/static/diana_busn/css/diana.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/static/diana_busn/img/ad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/static/diana_busn/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diana_proj/static/diana_busn/img/search.gif" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/p1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/p2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/p3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/p4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/p5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/p6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/p7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/p8.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj" afterPath="$PROJECT_DIR$/diana_proj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/db.sqlite3" afterPath="$PROJECT_DIR$/diana_proj/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Diana_B.iml" afterPath="$PROJECT_DIR$/.idea/Diana_B.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/admin.py" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/forms.py" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/models.py" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/diana.css" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/diana.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/mat/foundation.css" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/mat/foundation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/mat/main.css" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/static/css/mat/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/diana_busn/views.py" afterPath="$PROJECT_DIR$/diana_proj/diana_busn/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/diana_proj/settings.py" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/diana_proj/urls.py" afterPath="$PROJECT_DIR$/diana_proj/diana_proj/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/templates/base_homepage.html" afterPath="$PROJECT_DIR$/diana_proj/templates/base_homepage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/templates/base_itemspage.html" afterPath="$PROJECT_DIR$/diana_proj/templates/base_itemspage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/templates/materials/checkout.html" afterPath="$PROJECT_DIR$/diana_proj/templates/materials/checkout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/templates/materials/home.html" afterPath="$PROJECT_DIR$/diana_proj/templates/materials/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/templates/materials/index.html" afterPath="$PROJECT_DIR$/diana_proj/templates/materials/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diana_proj/templates/materials/show.html" afterPath="$PROJECT_DIR$/diana_proj/templates/materials/show.html" />
     </list>
     <ignored path="Diana_B.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -319,10 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/diana_proj/diana_busn/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
+            <state relative-caret-position="714">
               <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
               <folding />
             </state>
@@ -354,6 +89,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="82" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diana_proj/diana_busn/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="diana.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/diana_proj/diana_busn/static/css/diana.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="565">
+              <caret line="408" column="29" selection-start-line="408" selection-start-column="29" selection-end-line="408" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -524,196 +279,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_proj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_proj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_proj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="materials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_proj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_proj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_proj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_busn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_proj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_busn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_proj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_busn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_proj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_busn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="order" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Diana_B" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_proj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diana_busn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -727,19 +292,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\screenshots" />
+      <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\my_comments" />
+      <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\diana_busn\static\home_page\images" />
+      <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\diana_busn\static\home_page\css" />
+      <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\diana_busn\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\my_comments" />
       <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\mycomments" />
       <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\templates\search\indexes\diana_busn" />
       <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\templates\materials" />
       <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\templates\search" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\my_comments" />
-      <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\diana_busn\static\home_page\images" />
-      <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\diana_busn\static\home_page\css" />
-      <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\diana_busn\templates" />
-      <recent name="C:\Users\aspo\OneDrive\SoftDev_Python\Project\Diana_B\diana_proj\templates" />
     </key>
   </component>
   <component name="RunManager" selected="Python.views">
@@ -1049,7 +614,14 @@
       <option name="project" value="LOCAL" />
       <updated>1475546580590</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added all the changes and uploaded the project, setting it live for production.">
+      <created>1478958295025</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1478958295025</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1062,19 +634,19 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902735" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969605" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="manage.py@Diana_B" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12158055" sideWeight="0.49074075" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1090,7 +662,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated the models, forms, urls, views, static and media paths, templates, show and index page. Everything has started to take shape." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the models, forms, urls, views, static and media paths, templates, show and index page. Everything has started to take shape." />
+    <MESSAGE value="Added all the changes and uploaded the project, setting it live for production." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all the changes and uploaded the project, setting it live for production." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1109,13 +682,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/diana_proj/templates/500.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/diana_proj/templates/_feedback.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1203,13 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diana_proj/diana_busn/static/css/diana.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1308,7 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1411,14 +969,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/diana_proj/templates/base_homepage_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="82" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/diana_proj/templates/materials/_gallery.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1447,8 +997,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/diana_proj/diana_busn/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
+        <state relative-caret-position="714">
           <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diana_proj/templates/base_homepage_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="82" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diana_proj/diana_busn/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diana_proj/diana_busn/static/css/diana.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="408" column="29" selection-start-line="408" selection-start-column="29" selection-end-line="408" selection-end-column="29" />
           <folding />
         </state>
       </provider>

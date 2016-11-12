@@ -20,4 +20,15 @@
 <br>
   <img src="https://github.com/deaspo/diana_project/blob/master/diana.jpg" width=100% />
 </br>
-<p><b>To continue updating!</b></p>
+<p>The project has undergone lots of changes, with an initial pre-release testing</p>
+<p>The final homepage now looks like this</p>
+<br>
+  <img src="https://github.com/deaspo/diana_project/blob/0074d64e7ccbbb7ff6ddf7264365fee63ced7b73/screenshots/p1.png" width=100% />
+  <img src="https://github.com/deaspo/diana_project/blob/0074d64e7ccbbb7ff6ddf7264365fee63ced7b73/screenshots/p2.png" width=100% />
+  <img src="https://github.com/deaspo/diana_project/blob/0074d64e7ccbbb7ff6ddf7264365fee63ced7b73/screenshots/p3.png" width=100% />
+  <img src="https://github.com/deaspo/diana_project/blob/0074d64e7ccbbb7ff6ddf7264365fee63ced7b73/screenshots/p4.png" width=100% />
+  <img src="https://github.com/deaspo/diana_project/blob/0074d64e7ccbbb7ff6ddf7264365fee63ced7b73/screenshots/p5.png" width=100% />
+  <img src="https://github.com/deaspo/diana_project/blob/0074d64e7ccbbb7ff6ddf7264365fee63ced7b73/screenshots/p6.png" width=100% />
+  <img src="https://github.com/deaspo/diana_project/blob/0074d64e7ccbbb7ff6ddf7264365fee63ced7b73/screenshots/p7.png" width=100% />
+  <img src="https://github.com/deaspo/diana_project/blob/0074d64e7ccbbb7ff6ddf7264365fee63ced7b73/screenshots/p8.png" width=100% />
+</br>

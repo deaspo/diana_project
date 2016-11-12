@@ -32,6 +32,6 @@
   <img src="https://github.com/deaspo/diana_project/blob/0074d64e7ccbbb7ff6ddf7264365fee63ced7b73/screenshots/p7.png" width=100% />
   <img src="https://github.com/deaspo/diana_project/blob/0074d64e7ccbbb7ff6ddf7264365fee63ced7b73/screenshots/p8.png" width=100% />
 </br>
-<h2>The <strong>live</strong> site can accessed from the following link <a href="https://www.jaberafricancollections.com/" target="blank" /> 
+<h2>The <strong>live</strong> site can accessed from the following link <a href="https://www.jaberafricancollections.com/" target="blank"> Jaber African Collections </a> </h2>
 <h1>Currently designing the <strong style="color: blue;">Mobile App</strong> </h1>
 <h2><u>Proposed Design for the Mobile App</u></h2>

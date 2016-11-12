@@ -66,61 +66,60 @@
       <index name="auth_user_user_permissions_e8701ad4" unique="true" columns="user_id"/>
       <index name="auth_user_user_permissions_user_id_14a6b632_uniq" unique="true" columns="user_id,permission_id"/>
     </table>
-    <table name="diana_busn_discounts" schema="" catalog="" type="TABLE">
+    <table name="diana_busn_discount" schema="" catalog="" type="TABLE">
       <column name="id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
       <column name="discount" sqlType="DECIMAL" precision="0" scale="-1" nullable="false" jdbcType="6"/>
       <primary-key columns="id"/>
     </table>
-    <table name="diana_busn_materials" schema="" catalog="" type="TABLE">
+    <table name="diana_busn_material" schema="" catalog="" type="TABLE">
       <column name="id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
       <column name="name" sqlType="VARCHAR(50)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
       <column name="picture" sqlType="VARCHAR(100)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
-      <column name="price" sqlType="DECIMAL" precision="0" scale="-1" nullable="false" jdbcType="6"/>
-      <column name="description" sqlType="TEXT" precision="0" scale="-1" nullable="false" jdbcType="12"/>
-      <column name="category" sqlType="VARCHAR(50)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
-      <column name="available" sqlType="BOOL" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="quantity" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
       <column name="color" sqlType="VARCHAR(20)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
-      <column name="reserved" sqlType="BOOL" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="yard" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="discount_id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="new_price" sqlType="DECIMAL" precision="0" scale="-1" nullable="false" jdbcType="6"/>
+      <column name="price" sqlType="DECIMAL" precision="0" scale="-1" nullable="false" jdbcType="6"/>
       <column name="posted" sqlType="DATETIME" precision="0" scale="-1" nullable="false" jdbcType="12"/>
+      <column name="description" sqlType="TEXT" precision="0" scale="-1" nullable="false" jdbcType="12"/>
+      <column name="available" sqlType="BOOL" precision="0" scale="-1" nullable="false" jdbcType="4"/>
+      <column name="reserved" sqlType="BOOL" precision="0" scale="-1" nullable="false" jdbcType="4"/>
+      <column name="new_price" sqlType="DECIMAL" precision="0" scale="-1" nullable="false" jdbcType="6"/>
+      <column name="quantity" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
+      <column name="discount_id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
       <primary-key columns="id"/>
-      <foreign-key name="#FAKE_diana_busn_materials_1" columns="discount_id" ref-table="diana_busn_discounts" ref-schema="" ref-catalog="" ref-columns="id" update-rule="3" delete-rule="3" deferrability="1"/>
-      <index name="diana_busn_materials_90696c95" unique="true" columns="discount_id"/>
+      <foreign-key name="#FAKE_diana_busn_material_1" columns="discount_id" ref-table="diana_busn_discount" ref-schema="" ref-catalog="" ref-columns="id" update-rule="3" delete-rule="3" deferrability="1"/>
+      <index name="diana_busn_material_90696c95" unique="true" columns="discount_id"/>
     </table>
-    <table name="diana_busn_materials_similar" schema="" catalog="" type="TABLE">
+    <table name="diana_busn_material_similar" schema="" catalog="" type="TABLE">
       <column name="id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="from_materials_id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="to_materials_id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
+      <column name="from_material_id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
+      <column name="to_material_id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
       <primary-key columns="id"/>
-      <foreign-key name="#FAKE_diana_busn_materials_similar_1" columns="to_materials_id" ref-table="diana_busn_materials" ref-schema="" ref-catalog="" ref-columns="id" update-rule="3" delete-rule="3" deferrability="1"/>
-      <foreign-key name="#FAKE_diana_busn_materials_similar_2" columns="from_materials_id" ref-table="diana_busn_materials" ref-schema="" ref-catalog="" ref-columns="id" update-rule="3" delete-rule="3" deferrability="1"/>
-      <index name="diana_busn_materials_similar_6b9f2fb7" unique="true" columns="to_materials_id"/>
-      <index name="diana_busn_materials_similar_27cfed3f" unique="true" columns="from_materials_id"/>
-      <index name="diana_busn_materials_similar_from_materials_id_b9cab285_uniq" unique="true" columns="from_materials_id,to_materials_id"/>
+      <foreign-key name="#FAKE_diana_busn_material_similar_1" columns="to_material_id" ref-table="diana_busn_material" ref-schema="" ref-catalog="" ref-columns="id" update-rule="3" delete-rule="3" deferrability="1"/>
+      <foreign-key name="#FAKE_diana_busn_material_similar_2" columns="from_material_id" ref-table="diana_busn_material" ref-schema="" ref-catalog="" ref-columns="id" update-rule="3" delete-rule="3" deferrability="1"/>
+      <index name="diana_busn_material_similar_a005adeb" unique="true" columns="to_material_id"/>
+      <index name="diana_busn_material_similar_af907efc" unique="true" columns="from_material_id"/>
+      <index name="diana_busn_material_similar_from_material_id_e52f5cd9_uniq" unique="true" columns="from_material_id,to_material_id"/>
     </table>
-    <table name="diana_busn_materials_sizes" schema="" catalog="" type="TABLE">
+    <table name="diana_busn_material_sizes" schema="" catalog="" type="TABLE">
       <column name="id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="materials_id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="sizes_id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
+      <column name="material_id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
+      <column name="size_id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
       <primary-key columns="id"/>
-      <foreign-key name="#FAKE_diana_busn_materials_sizes_1" columns="sizes_id" ref-table="diana_busn_sizes" ref-schema="" ref-catalog="" ref-columns="id" update-rule="3" delete-rule="3" deferrability="1"/>
-      <foreign-key name="#FAKE_diana_busn_materials_sizes_2" columns="materials_id" ref-table="diana_busn_materials" ref-schema="" ref-catalog="" ref-columns="id" update-rule="3" delete-rule="3" deferrability="1"/>
-      <index name="diana_busn_materials_sizes_fc317d18" unique="true" columns="sizes_id"/>
-      <index name="diana_busn_materials_sizes_3e80f6b7" unique="true" columns="materials_id"/>
-      <index name="diana_busn_materials_sizes_materials_id_d9ef0491_uniq" unique="true" columns="materials_id,sizes_id"/>
+      <foreign-key name="#FAKE_diana_busn_material_sizes_1" columns="size_id" ref-table="diana_busn_size" ref-schema="" ref-catalog="" ref-columns="id" update-rule="3" delete-rule="3" deferrability="1"/>
+      <foreign-key name="#FAKE_diana_busn_material_sizes_2" columns="material_id" ref-table="diana_busn_material" ref-schema="" ref-catalog="" ref-columns="id" update-rule="3" delete-rule="3" deferrability="1"/>
+      <index name="diana_busn_material_sizes_8222f9c0" unique="true" columns="size_id"/>
+      <index name="diana_busn_material_sizes_eb4b9aaa" unique="true" columns="material_id"/>
+      <index name="diana_busn_material_sizes_material_id_0377b4a4_uniq" unique="true" columns="material_id,size_id"/>
     </table>
-    <table name="diana_busn_sizes" schema="" catalog="" type="TABLE">
+    <table name="diana_busn_size" schema="" catalog="" type="TABLE">
       <column name="id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="size" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
       <column name="name" sqlType="VARCHAR(50)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
+      <column name="size" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
+      <column name="qty" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
       <primary-key columns="id"/>
     </table>
     <table name="diana_busn_userorder" schema="" catalog="" type="TABLE">
       <column name="id" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="lastname" sqlType="VARCHAR(100)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
+      <column name="name" sqlType="VARCHAR(100)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
       <column name="preferredname" sqlType="VARCHAR(100)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
       <column name="email" sqlType="VARCHAR(254)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
       <column name="msg" sqlType="TEXT" precision="0" scale="-1" nullable="false" jdbcType="12"/>
@@ -128,9 +127,8 @@
       <column name="item" sqlType="VARCHAR(50)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
       <column name="price" sqlType="DECIMAL" precision="0" scale="-1" nullable="false" jdbcType="6"/>
       <column name="qty" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="size" sqlType="VARCHAR(50)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
       <column name="contact" sqlType="INTEGER" precision="0" scale="-1" nullable="false" jdbcType="4"/>
-      <column name="firstname" sqlType="VARCHAR(100)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
+      <column name="size" sqlType="VARCHAR(50)" precision="0" scale="-1" nullable="false" jdbcType="12"/>
       <primary-key columns="id"/>
     </table>
     <table name="django_admin_log" schema="" catalog="" type="TABLE">

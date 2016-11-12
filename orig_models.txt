@@ -1,0 +1,164 @@
+from __future__ import print_function
+from __future__ import unicode_literals
+from datetime import datetime
+from diana_busn.data_imports import  DataImporter
+from django.core.validators import *
+from django.core.files.uploadedfile import InMemoryUploadedFile
+from PIL import Image as Img
+import StringIO
+from decimal import Decimal
+from django_comments.moderation import CommentModerator, moderator
+
+from django.db import models
+from django import forms
+from django.forms import ModelChoiceField
+
+class PostModerator(CommentModerator):
+    email_notification = True
+
+
+class Discount(models.Model):
+    discount = models.DecimalField(max_digits=5, validators=[MinValueValidator(Decimal('0.00'), message="Cannot be be negative!")], decimal_places=2)
+
+    def __str__(self):
+        return str(self.discount)
+
+class Size(models.Model):
+    name = models.CharField(default="Available Sizes",max_length=50, editable=False)
+    size = models.IntegerField(default=6, editable=False)
+
+    def save(self, *args, **kwargs):
+        for tmpSize in self._meta.fields:
+            if self.size == tmpSize:
+                print("The size already exist")
+                exit()
+            else:
+                if self.size < 15:
+                    self.name = "Small(Size: %s)" % str(self.size)
+                elif self.size < 25:
+                    self.name = "Medium(Size: %s)" % str(self.size)
+                elif self.size < 40:
+                    self.name = "Large(Size: %s)" % str(self.size)
+                else:
+                    self.name = "Extra Large(Size: %s)" % str(self.size)
+        super(Size, self).save(*args, **kwargs)
+
+    def __str__(self):
+        return self.name + ", (%s) in stock" % str(self.qty)
+
+
+# Create your models here.
+
+class Material(models.Model):
+    name = models.CharField(max_length=50, validators=[MinLengthValidator(7, message="The name should be at least 7 characters"), MaxLengthValidator(50,message="Maximum characters allowed is 50")], unique=True)
+    picture = models.ImageField(upload_to='diana_busn/materials/%Y/%m/%d', default='C:/Users/aspo/OneDrive/SoftDev_Python/Project/Diana_B/diana_proj/diana_busn/media/default_mat.jpg')
+    color = models.CharField(max_length= 20, validators=[MinLengthValidator(3, message="Cannot be empty")], default="Red")
+    price = models.DecimalField(max_digits=7, validators=[MinValueValidator(Decimal('0.01'), message="The price cannot be be negative!")], decimal_places=2)
+    posted = models.DateTimeField(default=datetime.now(), editable=False)
+    description = models.TextField(max_length=1000)
+    quantity = models.IntegerField(default=0)
+    sizes = models.ManyToManyField(Size) #created a many to many
+    available = models.BooleanField(default=True)
+    reserved = models.BooleanField(default=False)
+    similar = models.ManyToManyField("self", blank=True)
+    discount = models.ForeignKey(Discount)
+    new_price = models.DecimalField(max_digits=7, validators=[MinValueValidator(Decimal('0.00'), message="Cannot be be negative!")], decimal_places=0,editable=False)
+
+    #tmp variable to hold the no. of different sizes
+    tmpQty = 0
+    #to be added variables
+    #"add_wishlist" \
+    #"add to cart" \
+    #"send message" \
+
+
+    # compressing the image before saving
+
+    def save(self, *args, **kwargs):
+        if self.picture:
+            img = Img.open(StringIO.StringIO(self.picture.read()))
+            if img.mode != 'RGB':
+                img = img.convert('RGB')
+            img.thumbnail((800 * self.picture.width / 1.5, 800 * self.picture.height / 1.5), Img.ANTIALIAS)
+            output = StringIO.StringIO()
+            img.save(output, format='JPEG', quality=70)
+            output.seek(0)
+            self.picture = InMemoryUploadedFile(output, 'ImageField', "%s.jpg" % self.picture.name.split('.')[0],
+                                                'image/jpeg', output.len, None)
+        #calculates the new price if there is a discount
+        if self.discount > 0:
+            rate = 1 - (self.discount.discount/Decimal(100))
+            self.new_price = rate*self.price
+        super(Material, self).save(*args, **kwargs)
+        #toggles vailability
+        if self.quantity == 0:
+            self.available = False
+        else:
+            self.available = True
+        super(Material, self).save(*args, **kwargs)
+        # calculates the total available materials
+        for vals in self.sizes.all():
+            self.tmpQty += vals.qty
+        self.quantity = self.tmpQty
+        super(Material, self).save(*args, **kwargs)
+
+
+    def __str__(self):
+        return "Title: %s" % self.name
+
+    #loads data from an excel file if they are available or will be used to update the db
+    @staticmethod
+    def _from_data(filename):
+        data = DataImporter().read_file(filename)
+        items = []
+        for item in data:
+             items.append(Material(name=item['name'],
+                                   price=item['price'],
+                                   description=item['description'],
+                                   quantity=item['quantity'],
+                                   available=item['available'],
+                                   category=item['category']
+                                   ))
+        return items
+
+
+    @staticmethod
+    def store_all(filename):
+        items = Material._from_data(filename)
+        for item in items:
+            item.save()
+
+
+moderator.register(Material, PostModerator)
+
+
+class UserOrder(models.Model):
+    name = models.CharField(max_length=100)
+    contact = models.IntegerField()
+    preferredname = models.CharField(blank=True, max_length=100)
+    email = models.EmailField(blank=True, validators=[EmailValidator()])
+    msg = models.TextField(max_length=1000)
+    shipping_categories = (
+        ('A', 'Delivery'),
+        ('B', 'Pickup'),
+    )
+    shp = models.CharField(choices=shipping_categories,max_length=50, default="Delivery")
+    item = models.CharField(max_length=50)
+    qty = models.IntegerField(default=1)
+    price = models.DecimalField(max_digits=7, validators=[
+        MinValueValidator(Decimal('0.01'), message="The price cannot be be negative!")], decimal_places=2, default=0.00)
+    sizeId = models.IntegerField(default=0)
+
+
+    def __str__(self):
+        return "Item: %s" % self.item + " by %s" % self.name
+
+
+class FeedBack(models.Model):
+    name = models.CharField(max_length=50, validators=[MinLengthValidator(2, message="The name should be at least 2 characters"), MaxLengthValidator(50,message="Maximum characters allowed is 50")])
+    email = models.EmailField(validators=[EmailValidator()])
+    thoughts = models.TextField(max_length=1000)
+    comments = models.TextField(blank=True,max_length=1000)
+
+    def __str__(self):
+        return "Feedback from: %s" % self.email
